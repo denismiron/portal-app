@@ -3,7 +3,8 @@ import React from 'react';
 const MainPage = () => {
     return (
         <div>
-            MAIN OAGE
+            MAIN PAGE
+            Lorem ipsum dolor sit amet, consectetur adip
         </div>
     );
 };
